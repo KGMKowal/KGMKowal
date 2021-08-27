@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KGMKowal
-- 👀 I’m interested in Sport, IT and chess.
+- 👀 I’m interested in Sport(especially in chess), IT, technologies and e-sport(League of Legends).
 - 🌱 I’m currently learning HTML & CSS & JavaScript, generally IT and technologies.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
